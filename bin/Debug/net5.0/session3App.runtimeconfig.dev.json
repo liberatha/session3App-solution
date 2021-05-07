@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Liberatha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Liberatha\\.nuget\\packages"
+    ]
+  }
+}
